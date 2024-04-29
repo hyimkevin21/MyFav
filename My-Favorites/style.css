@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(255, 145, 0);
+  border-radius: 15px;
+  width: 700px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+}
+li {
+  text-align: left;
+}
+
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+
+.purple {
+  color: blueviolet;
+}
